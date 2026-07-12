@@ -1,10 +1,10 @@
-# dashboard-llm
+# AI SEOBENCH
 
 🌐 **Lingua:** [English](README.md) | Italiano
 
 ---
 
-Dashboard interattiva (HTML + JS) per visualizzare `dati.json` con Chart.js.
+Dashboard interattiva (HTML + JS) per visualizzare `dati.json` con Chart.js, basata sul **metodo Mosna-Scarpetta** per il benchmarking degli LLM.
 
 L'analisi deriva dal progetto "Clusterizza e misura" (`https://github.com/Search-Foundry/aicategorizer`).
 
@@ -102,14 +102,15 @@ Nota: eventuali colonne extra vengono ignorate. Righe completamente vuote vengon
 
 ![Search Foundry](screenshots/SearchFoundryLogo.svg)
 
-- A cura di [Andrea Scarpetta](https://www.andreascarpetta.it), parte del collettivo [Search Foundry](https://www.searchfoundry.pro)
+- Ideato e curato da **Martino Mosna** e [Andrea Scarpetta](https://www.andreascarpetta.it), parte del collettivo [Search Foundry](https://www.searchfoundry.pro)
+- Il **metodo Mosna-Scarpetta** valuta le prestazioni degli LLM nel clustering e nella categorizzazione per applicazioni SEO.
 
 ## Licenza
 
 Questo progetto è distribuito con licenza [MIT](LICENSE).
 
 ---
-© 2025 Andrea Scarpetta - Founding member of Search Foundry
+© 2026 Martino Mosna e Andrea Scarpetta — Search Foundry
 
 Made with ❤️ and 🤖
 
