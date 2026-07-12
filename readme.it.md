@@ -16,7 +16,7 @@ L'analisi deriva dal progetto "Clusterizza e misura" (`https://github.com/Search
 ## Preview
 
 la visualizzazione con i dati è disponibile a questa url:
-https://search-foundry.github.io/dashboard-llm/
+https://search-foundry.github.io/seobench/
 
 
 
