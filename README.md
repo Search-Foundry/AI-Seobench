@@ -18,7 +18,7 @@ The analysis comes from the "Clusterizza e misura" project (`https://github.com/
 ## Preview
 
 The visualization with data is available at this URL:
-https://search-foundry.github.io/seobench/
+https://search-foundry.github.io/AI-Seobench/
 
 ## Quick Start
 
