@@ -9,7 +9,8 @@
     "percent_true": 84.92,
     "similarita_media": 93.1,
     "deviazione_std": 17.4,
-    "potenziale": 30270
+    "potenziale": 30270,
+    "disabled": 1
   },
   {
     "modello": "MISTRAL LARGE",
@@ -34,7 +35,8 @@
     "percent_true": 65.74,
     "similarita_media": 85.29,
     "deviazione_std": 25.1,
-    "potenziale": 27635
+    "potenziale": 27635,
+    "disabled": 1
   },
   {
     "modello": "LLAMA 3.3 70B",
@@ -83,7 +85,8 @@
     "percent_true": 86.15,
     "similarita_media": 94.09,
     "deviazione_std": 15.7,
-    "potenziale": 30580
+    "potenziale": 30580,
+    "disabled": 1
   },
   {
     "modello": "QWEN 2.5-32B",
@@ -119,7 +122,8 @@
     "percent_true": 86.15,
     "similarita_media": 94.03,
     "deviazione_std": 15.77,
-    "potenziale": 30560
+    "potenziale": 30560,
+    "disabled": 1
   },
   {
     "modello": "GEMMA 3",
@@ -131,7 +135,8 @@
     "percent_true": 80.86,
     "similarita_media": 90.9,
     "deviazione_std": 20.31,
-    "potenziale": 29450
+    "potenziale": 29450,
+    "disabled": 1
   },
   {
     "modello": "GEMINI 2 FLASH",
@@ -143,7 +148,8 @@
     "percent_true": 87.69,
     "similarita_media": 94.58,
     "deviazione_std": 15.6,
-    "potenziale": 30740
+    "potenziale": 30740,
+    "disabled": 1
   },
   {
     "modello": "GEMINI 2.5 FLASH",
@@ -155,7 +161,8 @@
     "percent_true": 84.62,
     "similarita_media": 94.88,
     "deviazione_std": 12.6,
-    "potenziale": 30835
+    "potenziale": 30835,
+    "disabled": 1
   },
   {
     "modello": "OPTIMUS ALPHA",
@@ -171,7 +178,7 @@
     "disabled": 1
   },
   {
-    "modello": "GPT4o",
+    "modello": "4o",
     "azienda": "OpenAI",
     "costo_euro": 0.08,
     "true": 255,
@@ -180,10 +187,11 @@
     "percent_true": 78.46,
     "similarita_media": 92.09,
     "deviazione_std": 16.84,
-    "potenziale": 29930
+    "potenziale": 29930,
+    "disabled": 1
   },
   {
-    "modello": "GPT 4o mini",
+    "modello": "4o mini",
     "azienda": "OpenAI",
     "costo_euro": 0.01,
     "true": 256,
@@ -192,10 +200,11 @@
     "percent_true": 78.77,
     "similarita_media": 90.22,
     "deviazione_std": 20.24,
-    "potenziale": 29320
+    "potenziale": 29320,
+    "disabled": 1
   },
   {
-    "modello": "GPT 4.1 (mini)",
+    "modello": "4.1 (mini)",
     "azienda": "OpenAI",
     "costo_euro": 0.2,
     "true": 278,
@@ -207,7 +216,7 @@
     "potenziale": 30895
   },
   {
-    "modello": "GPT 4.1 (Gemini)",
+    "modello": "4.1 (Gemini)",
     "azienda": "OpenAI",
     "costo_euro": 0.2,
     "true": 278,
@@ -220,7 +229,7 @@
     "disabled": 1
   },
   {
-    "modello": "GPT 4.1-mini",
+    "modello": "4.1-mini",
     "azienda": "OpenAI",
     "costo_euro": 0.04,
     "true": 271,
@@ -232,7 +241,7 @@
     "potenziale": 29890
   },
   {
-    "modello": "GPT 4.1-nano",
+    "modello": "4.1-nano",
     "azienda": "OpenAI",
     "costo_euro": 0.01,
     "true": 187,
@@ -244,7 +253,7 @@
     "potenziale": 27915
   },
   {
-    "modello": "GPT o4-mini",
+    "modello": "o4-mini",
     "azienda": "OpenAI",
     "costo_euro": 0.2,
     "true": 271,
@@ -253,10 +262,11 @@
     "percent_true": 83.38,
     "similarita_media": 94.46,
     "deviazione_std": 14.11,
-    "potenziale": 30699
+    "potenziale": 30699,
+    "disabled": 1
   },
   {
-    "modello": "GPT oss 20b",
+    "modello": "oss 20b",
     "azienda": "OpenAI",
     "costo_euro": 0.02,
     "true": 199,
@@ -268,7 +278,7 @@
     "potenziale": 25410
   },
   {
-    "modello": "GPT oss 120b",
+    "modello": "oss 120b",
     "azienda": "OpenAI",
     "costo_euro": 0.04,
     "true": 237,
@@ -280,7 +290,7 @@
     "potenziale": 27700
   },
   {
-    "modello": "GPT-5-mini",
+    "modello": "5-mini",
     "azienda": "OpenAI",
     "costo_euro": 0.11,
     "true": 271,
@@ -292,7 +302,7 @@
     "potenziale": 29930
   },
   {
-    "modello": "GPT-5-chat",
+    "modello": "5-chat",
     "azienda": "OpenAI",
     "costo_euro": 0.14,
     "true": 279,
@@ -363,7 +373,8 @@
     "percent_true": 81.54,
     "similarita_media": 89.6,
     "deviazione_std": 24.66,
-    "potenziale": 29120
+    "potenziale": 29120,
+    "disabled": 1
   },
   {
     "modello": "SONNET 4.5",
@@ -412,7 +423,8 @@
     "percent_true": 83.08,
     "similarita_media": 92.4,
     "deviazione_std": 17.99,
-    "potenziale": 30030
+    "potenziale": 30030,
+    "disabled": 1
   },
   {
     "modello": "POLARIS",
@@ -441,7 +453,7 @@
     "disabled": 1
   },
   {
-    "modello": "GPT 5.1-chat",
+    "modello": "5.1-chat",
     "azienda": "OpenAI",
     "costo_euro": 0.17,
     "true": 277,
@@ -561,7 +573,8 @@
     "percent_true": 82.77,
     "similarita_media": 89.92,
     "deviazione_std": 24.06,
-    "potenziale": 29135
+    "potenziale": 29135,
+    "disabled": 1
   },
   {
     "modello": "MERCURY2",
@@ -658,5 +671,29 @@
     "similarita_media": 96.36,
     "deviazione_std": 10.23,
     "potenziale": 29775
+  },
+  {
+    "modello": "5.6-Luna (think)",
+    "azienda": "OpenAI",
+    "costo_euro": 0.09,
+    "true": 112,
+    "false": 213,
+    "total_query": 325,
+    "percent_true": 34.46,
+    "similarita_media": 77.26,
+    "deviazione_std": 25.87,
+    "potenziale": 25110
+  },
+  {
+    "modello": "5.6-Luna (no-think)",
+    "azienda": "OpenAI",
+    "costo_euro": 0.12,
+    "true": 276,
+    "false": 49,
+    "total_query": 325,
+    "percent_true": 84.92,
+    "similarita_media": 96.34,
+    "deviazione_std": 9.53,
+    "potenziale": 31310
   }
 ]

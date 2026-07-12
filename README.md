@@ -1,4 +1,4 @@
-# dashboard-llm
+# AI SEOBENCH
 
 🌐 **Language:** English | [Italiano](readme.it.md)
 
@@ -6,7 +6,7 @@
 
 > **📝 Note — 19 May 2026:** During the last test with Gemini 3.5 Flash, I started noticing a severe slowdown of the control model (GPT-4 Mini). To accelerate the process I switched to GPT-5 Mini, but it has a problem: reasoning cannot be easily disabled. I'll probably need to modify the code to disable it parametrically. It's strange that GPT-4 Mini's speed dropped to less than 10 tokens per second anyway.
 
-Interactive dashboard (HTML + JS) to visualize `dati.json` with Chart.js.
+Interactive dashboard (HTML + JS) to visualize `dati.json` with Chart.js, based on the **Mosna-Scarpetta method** for LLM benchmarking.
 
 The analysis comes from the "Clusterizza e misura" project (`https://github.com/Search-Foundry/aicategorizer`).
 
@@ -102,14 +102,15 @@ Note: extra columns are ignored. Completely empty rows are discarded.
 
 ![Search Foundry](screenshots/SearchFoundryLogo.svg)
 
-- Curated by [Andrea Scarpetta](https://www.andreascarpetta.it), part of the [Search Foundry](https://www.searchfoundry.pro) collective
+- Conceived and curated by **Martino Mosna** & [Andrea Scarpetta](https://www.andreascarpetta.it), part of the [Search Foundry](https://www.searchfoundry.pro) collective
+- The **Mosna-Scarpetta method** benchmarks LLM clustering and categorization performance for SEO applications.
 
 ## License
 
 This project is distributed under the [MIT](LICENSE) license.
 
 ---
-© 2025 Andrea Scarpetta - Founding member of Search Foundry
+© 2026 Martino Mosna & Andrea Scarpetta — Search Foundry
 
 Made with ❤️ and 🤖
 
