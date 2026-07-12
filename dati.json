@@ -423,7 +423,8 @@
     "percent_true": 83.08,
     "similarita_media": 92.4,
     "deviazione_std": 17.99,
-    "potenziale": 30030
+    "potenziale": 30030,
+    "disabled": 1
   },
   {
     "modello": "POLARIS",
