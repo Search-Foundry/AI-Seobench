@@ -85,7 +85,8 @@
     "percent_true": 86.15,
     "similarita_media": 94.09,
     "deviazione_std": 15.7,
-    "potenziale": 30580
+    "potenziale": 30580,
+    "disabled": 1
   },
   {
     "modello": "QWEN 2.5-32B",
@@ -121,7 +122,8 @@
     "percent_true": 86.15,
     "similarita_media": 94.03,
     "deviazione_std": 15.77,
-    "potenziale": 30560
+    "potenziale": 30560,
+    "disabled": 1
   },
   {
     "modello": "GEMMA 3",
