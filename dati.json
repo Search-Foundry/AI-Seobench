@@ -695,5 +695,17 @@
     "similarita_media": 96.34,
     "deviazione_std": 9.53,
     "potenziale": 31310
+  },
+  {
+    "modello": "LONGCAT 2.0",
+    "azienda": "Meituan",
+    "costo_euro": 0.16,
+    "true": 248,
+    "false": 77,
+    "total_query": 325,
+    "percent_true": 76.31,
+    "similarita_media": 83.6,
+    "deviazione_std": 32.13,
+    "potenziale": 27170
   }
 ]
