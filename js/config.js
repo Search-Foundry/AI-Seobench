@@ -14,7 +14,7 @@ const companyColorMap = {
     'IBM': '#d35400',              // Burnt orange
     'Moonshot': '#1abc9c',         // Turquoise
     'InceptionLAbs': '#f1c40f',    // Yellow
-    'Meituan': '#ff8c00'            // Dark orange
+    'Meituan': '#ff8c00',           // Dark orange
     'Other': '#2c3e50'             // Blue gray dark
 };
 
@@ -33,7 +33,7 @@ const companySymbolMap = {
     'Minimax': 'rectRounded',      // Rounded square
     'Moonshot': 'star',            // Star
     'InceptionLAbs': 'rect',       // Square
-    'Meituan': 'triangle'          // Triangle
+    'Meituan': 'triangle',         // Triangle
     'IBM': 'circle',               // Circle
     'Other': 'triangle'           // Triangle
 };

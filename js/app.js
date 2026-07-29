@@ -74,7 +74,7 @@ async function preloadLogos() {
 
 async function loadData() {
     try {
-        const response = await fetch('dati.json');
+        const response = await fetch('dati.json', { cache: 'no-store' });
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
