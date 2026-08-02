@@ -75,6 +75,15 @@ La dashboard rimane pienamente compatibile con l'apertura diretta del file (`fil
 - Sostituisci il file `dati.json` mantenendo la struttura attesa dalla pagina.
 - Se l'auto-caricamento fallisce o non usi un server, usa il caricamento manuale: pulsante "Carica JSON".
 
+## Storico dei controlli
+
+Cronologia delle verifiche (re-check) eseguite su versioni/iterazioni di modelli già presenti nel dataset. Questi controlli **non** aggiornano `dati.json` quando le variazioni rientrano nella fluttuazione normale (~1%);
+il run archiviato viene mantenuto come riferimento.
+
+| Data | Identificativo modello | Riferimento in `dati.json` | Esito |
+|---|---|---|---|
+| 2026-07-29 | `deepseek/deepseek-v4-flash-0731` | DEEPSEEK 4 FLASH | Sostanzialmente simile al run archiviato, fluttuazione dell'~1%. Dati non aggiornati. |
+
 ## Formato dati (minimo indispensabile)
 
 La dashboard si aspetta oggetti con questi campi:

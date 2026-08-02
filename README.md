@@ -75,6 +75,15 @@ The dashboard remains fully compatible with direct file opening (`file://`) as i
 - Replace the `dati.json` file while keeping the expected structure.
 - If auto-loading fails or you're not using a server, use manual upload: "Load JSON" button.
 
+## Verification log
+
+History of re-checks run on versions/iterations of models already present in the dataset. These checks do **not** update `dati.json` when variations are within normal fluctuation (~1%);
+the archived run is kept as the reference.
+
+| Date | Model identifier | Reference in `dati.json` | Outcome |
+|---|---|---|---|
+| 2026-07-29 | `deepseek/deepseek-v4-flash-0731` | DEEPSEEK 4 FLASH | Substantially similar to the archived run, ~1% fluctuation. Data not updated. |
+
 ## Data format (minimum required)
 
 The dashboard expects objects with these fields:
