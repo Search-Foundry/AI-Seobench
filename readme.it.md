@@ -82,7 +82,7 @@ il run archiviato viene mantenuto come riferimento.
 
 | Data | Identificativo modello | Riferimento in `dati.json` | Esito |
 |---|---|---|---|
-| 2026-07-29 | `deepseek/deepseek-v4-flash-0731` | DEEPSEEK 4 FLASH | Sostanzialmente simile al run archiviato, fluttuazione dell'~1%. Dati non aggiornati. |
+| 2026-08-02 | `deepseek/deepseek-v4-flash-0731` | DEEPSEEK 4 FLASH | Sostanzialmente simile al run archiviato, fluttuazione dell'~1%. Dati non aggiornati. |
 
 ## Formato dati (minimo indispensabile)
 

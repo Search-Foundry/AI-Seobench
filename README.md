@@ -82,7 +82,7 @@ the archived run is kept as the reference.
 
 | Date | Model identifier | Reference in `dati.json` | Outcome |
 |---|---|---|---|
-| 2026-07-29 | `deepseek/deepseek-v4-flash-0731` | DEEPSEEK 4 FLASH | Substantially similar to the archived run, ~1% fluctuation. Data not updated. |
+| 2026-08-02 | `deepseek/deepseek-v4-flash-0731` | DEEPSEEK 4 FLASH | Substantially similar to the archived run, ~1% fluctuation. Data not updated. |
 
 ## Data format (minimum required)
 
