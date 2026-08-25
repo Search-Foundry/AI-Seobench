@@ -707,5 +707,17 @@
     "similarita_media": 83.6,
     "deviazione_std": 32.13,
     "potenziale": 27170
+  },
+  {
+    "modello": "OXALPHA",
+    "azienda": "Hidden",
+    "costo_euro": 0.01,
+    "true": 254,
+    "false": 71,
+    "total_query": 325,
+    "percent_true": 78.15,
+    "similarita_media": 87.05,
+    "deviazione_std": 26.66,
+    "potenziale": 28290
   }
 ]
