@@ -718,6 +718,19 @@
     "percent_true": 78.15,
     "similarita_media": 87.05,
     "deviazione_std": 26.66,
-    "potenziale": 28290
+    "potenziale": 28290,
+    "disabled": 1
+  },
+  {
+    "modello": "GPT-6-LUNA (no-think)",
+    "azienda": "OpenAI",
+    "costo_euro": 0.03,
+    "true": 302,
+    "false": 23,
+    "total_query": 325,
+    "percent_true": 92.92,
+    "similarita_media": 97.7,
+    "deviazione_std": 8.66,
+    "potenziale": 31751
   }
 ]
