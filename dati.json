@@ -732,5 +732,17 @@
     "similarita_media": 97.7,
     "deviazione_std": 8.66,
     "potenziale": 31751
+  },
+  {
+    "modello": "MISTRAL LARGE 4",
+    "azienda": "Mistral AI",
+    "costo_euro": 0.09,
+    "true": 281,
+    "false": 44,
+    "total_query": 325,
+    "percent_true": 86.46,
+    "similarita_media": 95.2,
+    "deviazione_std": 13.14,
+    "potenziale": 30939
   }
 ]
