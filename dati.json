@@ -744,5 +744,17 @@
     "similarita_media": 95.2,
     "deviazione_std": 13.14,
     "potenziale": 30939
+  },
+  {
+    "modello": "CLAUDE HAIKU 5.5 (no-think)",
+    "azienda": "Anthropic",
+    "costo_euro": 0.04,
+    "true": 282,
+    "false": 43,
+    "total_query": 325,
+    "percent_true": 86.77,
+    "similarita_media": 95.86,
+    "deviazione_std": 11.22,
+    "potenziale": 31156
   }
 ]
