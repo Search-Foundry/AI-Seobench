@@ -768,5 +768,29 @@
     "similarita_media": 97.07,
     "deviazione_std": 9.63,
     "potenziale": 31548
+  },
+  {
+    "modello": "MISTRAL LARGE 4 (think)",
+    "azienda": "Mistral AI",
+    "costo_euro": 0.7,
+    "true": 298,
+    "false": 27,
+    "total_query": 325,
+    "percent_true": 91.69,
+    "similarita_media": 96.98,
+    "deviazione_std": 11.22,
+    "potenziale": 31518
+  },
+  {
+    "modello": "GEMINI 4 ARGON (low)",
+    "azienda": "Google",
+    "costo_euro": 0.53,
+    "true": 302,
+    "false": 23,
+    "total_query": 325,
+    "percent_true": 92.92,
+    "similarita_media": 97.59,
+    "deviazione_std": 9.0,
+    "potenziale": 31718
   }
 ]
