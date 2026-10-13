@@ -792,5 +792,17 @@
     "similarita_media": 97.59,
     "deviazione_std": 9.0,
     "potenziale": 31718
+  },
+  {
+    "modello": "MUSE WONDER (minimal)",
+    "azienda": "Meta",
+    "costo_euro": 0.7,
+    "true": 302,
+    "false": 23,
+    "total_query": 325,
+    "percent_true": 92.92,
+    "similarita_media": 97.64,
+    "deviazione_std": 8.84,
+    "potenziale": 31733
   }
 ]
